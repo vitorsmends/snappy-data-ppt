@@ -1,0 +1,20 @@
+        O dispositivo demonstrou a possibilidade de:
+            \begin{itemize}
+                \item Codificar informações
+                \item Armazená-las permanentemente
+                \item Determinar propriedades mecânicas de um corpo
+            
+            \end{itemize}
+            \only<2->{
+        No entanto, ainda há limitações, por conta:
+        \begin{itemize}
+            \item Complexidade da estrutura
+            \item Dificuldade na produção em larga escala
+        \end{itemize}}
+        Demonstrou ser uma solução para aplicações que necessitam:
+        \begin{itemize}\only<3->{
+            \item Controlar rigidez de materiais em diferentes partes do corpo
+            \item Controle da densidade de energia armazenada por um material        
+        \end{itemize}}
+    \end{columns}
+  
