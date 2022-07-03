@@ -350,6 +350,7 @@ INPUT /home/vitor/Documents/presentations/snappy-data-ppt/source/pictures/shell.
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/sections-article/03-results.tex
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/sections-article/03-results.tex
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ts1-lmr9.tfm
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/sections-article/04-conclusion.tex
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/sections-article/04-conclusion.tex
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/modelo-artigo.bbl
@@ -362,8 +363,8 @@ OUTPUT /home/vitor/Documents/presentations/snappy-data-ppt/modelo-artigo.brf
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/modelo-artigo.aux
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/modelo-artigo.brf
 INPUT /home/vitor/Documents/presentations/snappy-data-ppt/modelo-artigo.brf
-INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc
+INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr12.pfb
