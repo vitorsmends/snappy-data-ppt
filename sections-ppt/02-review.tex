@@ -4,11 +4,19 @@
     \begin{columns}
         \column{.1\textwidth}
         \column{.4\textwidth}
-            \includegraphics[width=.87\textwidth]{shell.png}
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale = 0.325]{source/pictures/shell.png}
+            \caption{Unidade básica de armazenamento mecânico\cite{coulais2021snappy}.}
+            \label{fig:uba}
+        \end{figure}
+
         \column{.6\textwidth}
             \begin{itemize}
-                \item Conchas\footnote{Tradução livre de \textit{shell}.} que possuem uma instabilidade no seu encaixe.
-                \item O encaixe pode ser controlado remotamente por um campo magnético externo.
+                \item Instabilidade de encaixe.
+                \item Orientação magnética.
+                \item Limitação de movimentação.
             
             \end{itemize}
     \end{columns}
@@ -18,36 +26,73 @@
 
 \begin{frame}[t]{Unidade básica de armazenamento}
     \transboxout[duration=0.5]
-    \framesubtitle{Funcionamento}
-    %\transboxin[duration=1,direction=30]
+    \framesubtitle{Comportamento da estrutura}
+    \transboxin[duration=1,direction=30]
     
     \begin{figure}
-        \includegraphics[width=1\textwidth]{shell-work.png}
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width = \textwidth]{source/pictures/shell-work.png}
+            \caption{Estados da UBA\footnote[1]{Unidade Básica de Armazenamento.}\cite{coulais2021snappy}.}
+            \label{fig:uba-states}
+        \end{figure}
         %\caption{.}
     \end{figure}
     \small
-    A tampa magnética conduz o processo de encaixe, este que por sua vez determina a compressibilidade do ponto. 
-%*----------- notes
-    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
 \end{frame}
 
-\begin{frame}[t]{Unidade básica de armazenamento}
-    \transboxout[duration=0.5]
-    \framesubtitle{Processo de gravação}
-    \begin{columns}
-        % \column{.1\textwidth}
-        \column{.4\textwidth}
-            \includegraphics[width=.87\textwidth]{shell-array.png}
-        \column{.5\textwidth}
-        Utilizando um dispositivo com cabeçote eletromagnético.
-            \begin{enumerate}
-                \item Percorre a matriz
-                \item Encontra o \textit{bit} desejado
-                \item Através de indução, define o estado daquele \textit{bit}
-            
-            \end{enumerate}
-        
-    \end{columns}
+\begin{frame}{Processo de gravação}
+    \framesubtitle{Em uma unidade básica}
+    \centering % Para centralizarmos o vídeo
+    \includemedia[
+    label=nome_qualquer, % ! Importante para linkar o vídeo ao botão (ver abaixo)
+    width=0.6\linewidth, height=0.375\linewidth, % Dimensões
+    addresource=./source/movies/record-shell.mp4, % ESTE É O SEU ARQUIVO DE VÍDEO (mesmo dir.)
+    transparent, % Opções para que o player tenha transparência
+    activate=pageopen, % Se você deseja que o vídeo esteja "carregado" ao abrir a página
+    flashvars={
+    source=./source/movies/record-shell.mp4
+    &loop=true % Se você quer que o vídeo repita automaticamente 
+    &scaleMode=letterbox % Manter proporções (dimensionais) do vídeo
+    }
+    ]{}{VPlayer.swf}
+    \vspace{1cm} % Espaçamento entre vídeo e botão
     
-    \note[item]{Desse modo, é possível determinar o estado de diferentes partes de um material. Além disso, determina também quanta energia ele pode armazenar.}
+    % Agora, você cria o botão para dar play/pause. Neste caso, o botão é apenas a letra "pi".
+    
+    \mediabutton[
+    mediacommand=nome_qualquer:playPause,
+    overface=\color{black}{{\strut $\pi$}},
+    downface=\color{gray}{{\strut $\pi$}}
+    ]{{\strut $\pi$}}
+    
+    
+\end{frame}
+
+\begin{frame}{Processo de gravação}
+    \framesubtitle{Em uma unidade básica}
+    \centering % Para centralizarmos o vídeo
+    \includemedia[
+    label=nome_qualquer, % ! Importante para linkar o vídeo ao botão (ver abaixo)
+    width=0.6\linewidth, height=0.375\linewidth, % Dimensões
+    addresource=./source/movies/recording-array.mp4, % ESTE É O SEU ARQUIVO DE VÍDEO (mesmo dir.)
+    transparent, % Opções para que o player tenha transparência
+    activate=pageopen, % Se você deseja que o vídeo esteja "carregado" ao abrir a página
+    flashvars={
+    source=./source/movies/recording-array.mp4
+    &loop=true % Se você quer que o vídeo repita automaticamente 
+    &scaleMode=letterbox % Manter proporções (dimensionais) do vídeo
+    }
+    ]{}{VPlayer.swf}
+    \vspace{1cm} % Espaçamento entre vídeo e botão
+    
+    % Agora, você cria o botão para dar play/pause. Neste caso, o botão é apenas a letra "pi".
+    
+    \mediabutton[
+    mediacommand=nome_qualquer:playPause,
+    overface=\color{black}{{\strut $\pi$}},
+    downface=\color{gray}{{\strut $\pi$}}
+    ]{{\strut $\pi$}}
+    
+    
 \end{frame}

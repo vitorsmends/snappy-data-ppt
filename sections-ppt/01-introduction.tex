@@ -1,13 +1,43 @@
 %*----------- SLIDE -------------------------------------------------------------
+\begin{frame}
+    %\transdissolve[duration=0.5]
+    %\hspace*{-1cm}
+    \begin{columns}
+        %\column{.01\textwidth}
+        \column{0.4\textwidth}
+        ~\hfill
+        \vbox{}\vskip-1.4ex%
+        \begin{beamercolorbox}[sep=8em, colsep*=18pt, center, wd=\textwidth, ht=\paperheight]{title page header}%
+            \begin{center}
+                \textbf{\huge{Introdução}}
+            \end{center}
+        \end{beamercolorbox}%
+        \hfill\hfill
+        \column{.05\textwidth}
+        \column{.6\textwidth}
+    \begin{figure}[H]
+        \centering
+        \includegraphics[scale = 0.5]{source/pictures/device.png}
+        \caption{Imagem do dispositivo\cite{chen2021reprogrammable}.}
+        \label{fig:device}
+    \end{figure}
+
+    \end{columns}
+
+    %*----------- notes__
+    \note[item]{Notes can help you to remember important information. Turn on the notes option.}
+\end{frame}
+
+
 \begin{frame}[t]{Introdução}
     \transboxout[duration=0.5]
     \begin{columns}
         \column{.2\textwidth}
     \end{columns}
 
-    \begin{block}{O que é \textit{Snappy Data Storage}?}
+    \begin{block}{O que é este dispositivo?}
     \only<2->{
-        É um dispositivo/sistema de memória desenvolvido por \textit{Chen et al.} capaz manipular informações de forma mecânica\cite{coulais2021snappy}.}
+        É um sistema de memória desenvolvido por \textit{Chen et al.} capaz manipular informações de forma mecânica\cite{coulais2021snappy}.}
     \end{block}
     \only<3->{
     O dispositivo é capaz de:
@@ -20,6 +50,47 @@
     A informação codificada é capaz de determinar as propriedades mecânicas do dispositivo.}
     }
 \end{frame}
+
+\begin{frame}[t]{Introdução}
+    \transboxout[duration=0.5]
+    \textcolor{red}{Conceitos importantes}
+
+    \begin{block}{O que é este dispositivo?}
+
+        É um \Circled[outer color=red, inner ysep=8pt]{sistema de memória} desenvolvido por \textit{Chen et al.} capaz manipular informações de forma \Circled[outer color=red, inner ysep=8pt]{mecânica}\cite{coulais2021snappy}.
+    \end{block}
+
+    O dispositivo é capaz de:
+    \begin{itemize}
+        \item Codificar
+        \item Armazenar
+        \item Ler
+    \end{itemize}
+
+    A informação codificada é capaz de determinar as propriedades mecânicas do dispositivo.
+    
+\end{frame}
+
+
+\begin{frame}[t]{Introdução}
+    \transboxout[duration=0.5]
+    \framesubtitle{Metamateriais}
+    \begin{columns}
+        \column{.1\textwidth}
+        \column{.4\textwidth}
+            \includegraphics[width=.87\textwidth]{hdd.png}
+        \column{.6\textwidth}
+            \begin{itemize}
+                \item Apresenta funcionamento semelhante ao SDS\footnote{Snappy Data Storage}
+                \item Utiliza \textit{bits} magneticos para manipular a informação
+            
+            \end{itemize}
+    \end{columns}
+   
+\end{frame}
+
+
+
 %-
 %*----------- SLIDE -------------------------------------------------------------
 \begin{frame}[c]{Introdução} 
@@ -82,7 +153,7 @@
         \column{.2\textwidth}
     \end{columns}
 
-    \begin{block}{O que é \textit{Building Blocks}?}
+    \begin{block}{Bits}
         Unidades básicas de armazenamento do sistema de memória. É possível comparar a funcionalidade dos bits magnéticos com os bits mecânicos.
     \end{block}
     \only<2->{

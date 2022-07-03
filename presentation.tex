@@ -69,11 +69,27 @@
 \usepackage{xfrac}
 \usepackage{units}
 \usepackage{ulem}
+
+
+
 %*-------------------------------------------------------------------------------
 %\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+
+% \usepackage{tikz}
+% \newsavebox{\picbox}
+% \newcommand{\roundpic}[3]{
+%    \savebox{\picbox}{\includegraphics[#2]{#3}}
+%    \tikz\node [draw, rounded corners=#1, line width=4pt,
+%         color=white, minimum width=\wd\picbox,
+%         minimum height=\ht\picbox,
+%         path picture={
+%              \node at (path picture bounding box.center)
+%              {\usebox{\picbox}};}] {};}
+
 %*-------------------------------------------------------------------------------
 %\pgfpagesuselayout{2 on 1}[a4paper,border shrink=5mm]
 %\setbeamertemplate{note page}[plain]
