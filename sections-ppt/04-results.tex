@@ -43,16 +43,46 @@ O dispositivo apresentou a capacidade:
 
 \begin{frame}{Conclusão}
     \framesubtitle{Aplicações}
+    A ficção já apresentou algumas possibilidades
+    \centering % Para centralizarmos o vídeo
+    \includemedia[
+    label=nome_qualquer, % ! Importante para linkar o vídeo ao botão (ver abaixo)
+    width=0.6\linewidth, height=0.375\linewidth, % Dimensões
+    addresource=./source/movies/batman-cover.mp4, % ESTE É O SEU ARQUIVO DE VÍDEO (mesmo dir.)
+    transparent, % Opções para que o player tenha transparência
+    activate=pageopen, % Se você deseja que o vídeo esteja "carregado" ao abrir a página
+    flashvars={
+    source=./source/movies/batman-cover.mp4
+    &loop=true % Se você quer que o vídeo repita automaticamente 
+    &scaleMode=letterbox % Manter proporções (dimensionais) do vídeo
+    }
+    ]{}{VPlayer.swf}
+    \vspace{1cm} % Espaçamento entre vídeo e botão
+    
+    % Agora, você cria o botão para dar play/pause. Neste caso, o botão é apenas a letra "pi".
+    
+    \mediabutton[
+    mediacommand=nome_qualquer:playPause,
+    overface=\color{black}{{\strut $\pi$}},
+    downface=\color{gray}{{\strut $\pi$}}
+    ]{{\strut $\pi$}}
+    
+    
+\end{frame}
+
+
+\begin{frame}{Conclusão}
+    \framesubtitle{Aplicações}
     
     \centering % Para centralizarmos o vídeo
     \includemedia[
     label=nome_qualquer, % ! Importante para linkar o vídeo ao botão (ver abaixo)
     width=0.6\linewidth, height=0.375\linewidth, % Dimensões
-    addresource=./source/movies/compress-material.mp4, % ESTE É O SEU ARQUIVO DE VÍDEO (mesmo dir.)
+    addresource=./source/movies/batman-flying.mp4, % ESTE É O SEU ARQUIVO DE VÍDEO (mesmo dir.)
     transparent, % Opções para que o player tenha transparência
     activate=pageopen, % Se você deseja que o vídeo esteja "carregado" ao abrir a página
     flashvars={
-    source=./source/movies/compress-material.mp4
+    source=./source/movies/batman-flying.mp4
     &loop=true % Se você quer que o vídeo repita automaticamente 
     &scaleMode=letterbox % Manter proporções (dimensionais) do vídeo
     }
