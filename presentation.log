@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.8)  4 JUL 2022 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.8)  4 JUL 2022 11:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -630,18 +630,36 @@ Package: bibunits 2004/05/12 v2.4 Multiple bibliographies in one document.
 \gdef\bu@bibstyle{abntex2-alf}
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen301
+\AM@pageheight=\dimen302
+ (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box81
+\AM@global@opts=\toks49
+\AM@pagecnt=\count332
+\AM@toc@title=\toks50
+\c@AM@survey=\count333
+\AM@templatesizebox=\box82
 ) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-02-14 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count332
-\l__pdf_internal_box=\box81
+\l__kernel_color_stack_int=\count334
+\l__pdf_internal_box=\box83
 )) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2020-02-14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count333
-\g__xparse_grabber_int=\count334
-\l__xparse_m_args_int=\count335
-\l__xparse_v_nesting_int=\count336
+\l__xparse_current_arg_int=\count335
+\g__xparse_grabber_int=\count336
+\l__xparse_m_args_int=\count337
+\l__xparse_v_nesting_int=\count338
 )
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
  (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
@@ -658,34 +676,34 @@ Package: nextpage 2009/09/03 v1.1a additional page commands
 ) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip78
-\multirow@cntb=\count337
+\multirow@cntb=\count339
 \multirow@dima=\skip79
-\bigstrutjot=\dimen301
+\bigstrutjot=\dimen303
 ) (/usr/share/texlive/texmf-dist/tex/latex/media9/media9.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
 )
 Package: media9 2020/01/27 v1.05 acrobat-9/X compatible media
-\g_mix_pkgresizeflag_int=\count338
+\g_mix_pkgresizeflag_int=\count340
  (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
 Package: pdfbase 2020/01/27 v0.36 driver independent access to low-level PDF features
-\g_pbs_page_int=\count339
-\g_pbs_oc_int=\count340
+\g_pbs_page_int=\count341
+\g_pbs_oc_int=\count342
 ) (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
 Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
-\g_ocgbase_nd_int=\count341
+\g_ocgbase_nd_int=\count343
 )
-\l_mix_poster_box=\box82
-\g_mix_wd_dim=\dimen302
-\g_mix_ht_dim=\dimen303
-\g_mix_dp_dim=\dimen304
-\g_mix_rmcnt_int=\count342
-\l_mix_viewcnt_int=\count343
-\g@mix@page@int=\count344
-\g_mix_resizeflag_int=\count345
-\l_mix_lineno_int=\count346
-\l_mix_pbtn_box=\box83
-\mix@btn@dim=\dimen305
-\g_mix_mbtncnt_int=\count347
+\l_mix_poster_box=\box84
+\g_mix_wd_dim=\dimen304
+\g_mix_ht_dim=\dimen305
+\g_mix_dp_dim=\dimen306
+\g_mix_rmcnt_int=\count344
+\l_mix_viewcnt_int=\count345
+\g@mix@page@int=\count346
+\g_mix_resizeflag_int=\count347
+\l_mix_lineno_int=\count348
+\l_mix_pbtn_box=\box85
+\mix@btn@dim=\dimen307
+\g_mix_mbtncnt_int=\count349
 ) (/usr/share/texlive/texmf-dist/tex/latex/circledsteps/circledsteps.sty
 Package: circledsteps 2020/01/12 v1.3 Circled steps that you can reference
  (/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
@@ -698,134 +716,131 @@ Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
  (/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
 File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 )
-\pIIe@GRAPH=\toks49
-\@arclen=\dimen306
-\@arcrad=\dimen307
-\@tempdimd=\dimen308
+\pIIe@GRAPH=\toks51
+\@arclen=\dimen308
+\@arcrad=\dimen309
+\@tempdimd=\dimen310
 ) (/usr/share/texlive/texmf-dist/tex/latex/picture/picture.sty
 Package: picture 2019/12/09 v1.5 Dimens for picture macros (HO)
 Package picture Info: Calculation method: calc.
 )
-\csteps@CBox=\box84
+\csteps@CBox=\box86
 \csteps@XLength=\skip80
 \csteps@YLength=\skip81
 \csteps@YDepth=\skip82
 \csteps@tmplen=\skip83
-\c@cstepcnt=\count348
+\c@cstepcnt=\count350
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count349
-\lst@gtempboxa=\box85
-\lst@token=\toks50
-\lst@length=\count350
-\lst@currlwidth=\dimen309
-\lst@column=\count351
-\lst@pos=\count352
-\lst@lostspace=\dimen310
-\lst@width=\dimen311
-\lst@newlines=\count353
-\lst@lineno=\count354
-\lst@maxwidth=\dimen312
+\lst@mode=\count351
+\lst@gtempboxa=\box87
+\lst@token=\toks52
+\lst@length=\count352
+\lst@currlwidth=\dimen311
+\lst@column=\count353
+\lst@pos=\count354
+\lst@lostspace=\dimen312
+\lst@width=\dimen313
+\lst@newlines=\count355
+\lst@lineno=\count356
+\lst@maxwidth=\dimen314
  (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-\c@lstnumber=\count355
-\lst@skipnumbers=\count356
-\lst@framebox=\box86
+\c@lstnumber=\count357
+\lst@skipnumbers=\count358
+\lst@framebox=\box88
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
 Package: listings 2019/09/10 1.8c (Carsten Heinz)
  (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box87
-\UL@hyphenbox=\box88
+\UL@box=\box89
+\UL@hyphenbox=\box90
 \UL@skip=\skip84
-\UL@hook=\toks51
-\UL@height=\dimen313
-\UL@pe=\count357
-\UL@pixel=\dimen314
-\ULC@box=\box89
+\UL@hook=\toks53
+\UL@height=\dimen315
+\UL@pe=\count359
+\UL@pixel=\dimen316
+\ULC@box=\box91
 Package: ulem 2019/11/18
-\ULdepth=\dimen315
+\ULdepth=\dimen317
 ) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count358
-\float@exts=\toks52
-\float@box=\box90
-\@float@everytoks=\toks53
-\@floatcapt=\box91
+\c@float@type=\count360
+\float@exts=\toks54
+\float@box=\box92
+\@float@everytoks=\toks55
+\@floatcapt=\box93
 ) (/home/vitor/Documents/presentations/snappy-data-ppt/tdclock.sty
 Package: tdclock 2014/02/21 v2.5 clock accessory
  (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
  (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks54
-\XKV@tempa@toks=\toks55
+\XKV@toks=\toks56
+\XKV@tempa@toks=\toks57
 )
-\XKV@depth=\count359
+\XKV@depth=\count361
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\clock@fontsize=\dimen316
-\clock@height=\dimen317
-\sizebox=\box92
+\clock@fontsize=\dimen318
+\clock@height=\dimen319
+\sizebox=\box94
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen318
-\TX@old@table=\dimen319
-\TX@old@col=\dimen320
-\TX@target=\dimen321
-\TX@delta=\dimen322
-\TX@cols=\count360
-\TX@ftn=\toks56
+\TX@col@width=\dimen320
+\TX@old@table=\dimen321
+\TX@old@col=\dimen322
+\TX@target=\dimen323
+\TX@delta=\dimen324
+\TX@cols=\count362
+\TX@ftn=\toks58
 ) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen323
-\lightrulewidth=\dimen324
-\cmidrulewidth=\dimen325
-\belowrulesep=\dimen326
-\belowbottomsep=\dimen327
-\aboverulesep=\dimen328
-\abovetopsep=\dimen329
-\cmidrulesep=\dimen330
-\cmidrulekern=\dimen331
-\defaultaddspace=\dimen332
-\@cmidla=\count361
-\@cmidlb=\count362
-\@aboverulesep=\dimen333
-\@belowrulesep=\dimen334
-\@thisruleclass=\count363
-\@lastruleclass=\count364
-\@thisrulewidth=\dimen335
+\heavyrulewidth=\dimen325
+\lightrulewidth=\dimen326
+\cmidrulewidth=\dimen327
+\belowrulesep=\dimen328
+\belowbottomsep=\dimen329
+\aboverulesep=\dimen330
+\abovetopsep=\dimen331
+\cmidrulesep=\dimen332
+\cmidrulekern=\dimen333
+\defaultaddspace=\dimen334
+\@cmidla=\count363
+\@cmidlb=\count364
+\@aboverulesep=\dimen335
+\@belowrulesep=\dimen336
+\@thisruleclass=\count365
+\@lastruleclass=\count366
+\@thisrulewidth=\dimen337
 ) (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box93
+\@tempboxb=\box95
 ) (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2019/04/15 v1.9.1
 
 Package: textpos 2019/04/15 1.9.1, absolute positioning of text on the page
-\TP@textbox=\box94
-\TP@holdbox=\box95
-\TPHorizModule=\dimen336
-\TPVertModule=\dimen337
-\TP@margin=\dimen338
-\TP@absmargin=\dimen339
+\TP@textbox=\box96
+\TP@holdbox=\box97
+\TPHorizModule=\dimen338
+\TPVertModule=\dimen339
+\TP@margin=\dimen340
+\TP@absmargin=\dimen341
 Grid set 16 x 16 = 28.45274pt x 16.00467pt
-\TPboxrulesize=\dimen340
-\TP@ox=\dimen341
-\TP@oy=\dimen342
-\TP@tbargs=\toks57
-\TP@prevdepth=\dimen343
+\TPboxrulesize=\dimen342
+\TP@ox=\dimen343
+\TP@oy=\dimen344
+\TP@tbargs=\toks59
+\TP@prevdepth=\dimen345
 TextBlockOrigin set to 0pt x 0pt
 ) (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip85
-\fb@frw=\dimen344
-\fb@frh=\dimen345
-\FrameRule=\dimen346
-\FrameSep=\dimen347
+\fb@frw=\dimen346
+\fb@frh=\dimen347
+\FrameRule=\dimen348
+\FrameSep=\dimen349
 ) (/usr/share/texlive/texmf-dist/tex/latex/bclogo/bclogo.sty
 Package: bclogo 2016/01/10 v3.1
- (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
 \bc@invboxh=\skip86
 \bc@invboxd=\skip87
 \bc@titleLength=\skip88
@@ -840,13 +855,13 @@ Package zref Info: New property list: main on input line 763.
 Package zref Info: New property: default on input line 764.
 Package zref Info: New property: page on input line 765.
 )
-\c@abspage=\count365
+\c@abspage=\count367
 Package zref Info: New property: abspage on input line 66.
 ) (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip90
-\c@mdf@globalstyle@cnt=\count366
+\c@mdf@globalstyle@cnt=\count368
 \mdf@skipabove@length=\skip91
 \mdf@skipbelow@length=\skip92
 \mdf@leftmargin@length=\skip93
@@ -889,11 +904,11 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
  (/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
 File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 )
-\mdf@frametitlebox=\box96
-\mdf@footnotebox=\box97
-\mdf@splitbox@one=\box98
-\mdf@splitbox@two=\box99
-\mdf@splitbox@save=\box100
+\mdf@frametitlebox=\box98
+\mdf@footnotebox=\box99
+\mdf@splitbox@one=\box100
+\mdf@splitbox@two=\box101
+\mdf@splitbox@save=\box102
 \mdfsplitboxwidth=\skip130
 \mdfsplitboxtotalwidth=\skip131
 \mdfsplitboxheight=\skip132
@@ -921,16 +936,16 @@ File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 \mdf@horizontalspaceofbox=\skip154
 \mdfsubtitleheight=\skip155
 \mdfsubsubtitleheight=\skip156
-\c@mdfcountframes=\count367
+\c@mdfcountframes=\count369
 
 ****** mdframed patching \endmdf@trivlist
 
 ****** -- failed******
 
-\mdf@envdepth=\count368
-\c@mdf@env@i=\count369
-\c@mdf@env@ii=\count370
-\c@mdf@zref@counter=\count371
+\mdf@envdepth=\count370
+\c@mdf@env@i=\count371
+\c@mdf@env@ii=\count372
+\c@mdf@zref@counter=\count373
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
 File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -939,25 +954,25 @@ File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen348
-\pgfdecoratedremainingdistance=\dimen349
-\pgfdecoratedinputsegmentcompleteddistance=\dimen350
-\pgfdecoratedinputsegmentremainingdistance=\dimen351
-\pgf@decorate@distancetomove=\dimen352
-\pgf@decorate@repeatstate=\count372
-\pgfdecorationsegmentamplitude=\dimen353
-\pgfdecorationsegmentlength=\dimen354
+\pgfdecoratedcompleteddistance=\dimen350
+\pgfdecoratedremainingdistance=\dimen351
+\pgfdecoratedinputsegmentcompleteddistance=\dimen352
+\pgfdecoratedinputsegmentremainingdistance=\dimen353
+\pgf@decorate@distancetomove=\dimen354
+\pgf@decorate@repeatstate=\count374
+\pgfdecorationsegmentamplitude=\dimen355
+\pgfdecorationsegmentlength=\dimen356
 )
-\tikz@lib@dec@box=\box101
+\tikz@lib@dec@box=\box103
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex))
-\c@bclogocompteur=\count373
+\c@bclogocompteur=\count375
 \bcval@epBarre=\skip157
 \bcval@framesep=\skip158
 \bcval@tailleOndu=\skip159
 \bcval@borderWidth=\skip160
 \bcval@margeG=\skip161
 \bcval@margeD=\skip162
-\bc@envbox=\box102
+\bc@envbox=\box104
 ) (/usr/share/texlive/texmf-dist/tex/latex/spot/spot.sty
 Package: spot 2011/05/09 v1.1 Spotlight highlighting
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
@@ -982,28 +997,28 @@ File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodepartlowerbox=\box103
-\pgfnodeparttwobox=\box104
-\pgfnodepartthreebox=\box105
-\pgfnodepartfourbox=\box106
-\pgfnodeparttwentybox=\box107
-\pgfnodepartnineteenbox=\box108
-\pgfnodeparteighteenbox=\box109
-\pgfnodepartseventeenbox=\box110
-\pgfnodepartsixteenbox=\box111
-\pgfnodepartfifteenbox=\box112
-\pgfnodepartfourteenbox=\box113
-\pgfnodepartthirteenbox=\box114
-\pgfnodeparttwelvebox=\box115
-\pgfnodepartelevenbox=\box116
-\pgfnodeparttenbox=\box117
-\pgfnodepartninebox=\box118
-\pgfnodeparteightbox=\box119
-\pgfnodepartsevenbox=\box120
-\pgfnodepartsixbox=\box121
-\pgfnodepartfivebox=\box122
+\pgfnodepartlowerbox=\box105
+\pgfnodeparttwobox=\box106
+\pgfnodepartthreebox=\box107
+\pgfnodepartfourbox=\box108
+\pgfnodeparttwentybox=\box109
+\pgfnodepartnineteenbox=\box110
+\pgfnodeparteighteenbox=\box111
+\pgfnodepartseventeenbox=\box112
+\pgfnodepartsixteenbox=\box113
+\pgfnodepartfifteenbox=\box114
+\pgfnodepartfourteenbox=\box115
+\pgfnodepartthirteenbox=\box116
+\pgfnodeparttwelvebox=\box117
+\pgfnodepartelevenbox=\box118
+\pgfnodeparttenbox=\box119
+\pgfnodepartninebox=\box120
+\pgfnodeparteightbox=\box121
+\pgfnodepartsevenbox=\box122
+\pgfnodepartsixbox=\box123
+\pgfnodepartfivebox=\box124
 )))
-\c@spot@spots=\count374
+\c@spot@spots=\count376
 ) (/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
 Package: svg 2020/01/13 v2.02e (include SVG pictures)
  (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
@@ -1014,43 +1029,43 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 ) (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\svg@box=\box123
-\c@svg@param@lastpage=\count375
-\c@svg@param@currpage=\count376
+\svg@box=\box125
+\c@svg@param@lastpage=\count377
+\c@svg@param@currpage=\count378
 ) (/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
 Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
 ) (/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks58
-\SOUL@lasttoken=\toks59
-\SOUL@cmds=\toks60
-\SOUL@buffer=\toks61
-\SOUL@token=\toks62
+\SOUL@word=\toks60
+\SOUL@lasttoken=\toks61
+\SOUL@cmds=\toks62
+\SOUL@buffer=\toks63
+\SOUL@token=\toks64
 \SOUL@spaceskip=\skip163
-\SOUL@ttwidth=\dimen355
-\SOUL@uldp=\dimen356
-\SOUL@ulht=\dimen357
+\SOUL@ttwidth=\dimen357
+\SOUL@uldp=\dimen358
+\SOUL@ulht=\dimen359
 ) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2019/11/15 version 4.22 text color boxes
  (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks63
-\verbatim@line=\toks64
+\every@verbatim=\toks65
+\verbatim@line=\toks66
 \verbatim@in@stream=\read3
 ) (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 )
-\tcb@titlebox=\box124
-\tcb@upperbox=\box125
-\tcb@lowerbox=\box126
-\tcb@phantombox=\box127
-\c@tcbbreakpart=\count377
-\c@tcblayer=\count378
-\tcolorbox@number=\count379
-\tcb@temp=\box128
-\tcb@temp=\box129
+\tcb@titlebox=\box126
+\tcb@upperbox=\box127
+\tcb@lowerbox=\box128
+\tcb@phantombox=\box129
+\c@tcbbreakpart=\count379
+\c@tcblayer=\count380
+\tcolorbox@number=\count381
 \tcb@temp=\box130
 \tcb@temp=\box131
+\tcb@temp=\box132
+\tcb@temp=\box133
 \tcb@out=\write6
 \tcb@record@out=\write7
 ) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
@@ -1061,60 +1076,60 @@ Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
 Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
  (/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box132
+\collectedbox=\box134
 )
-\tc@llx=\dimen358
-\tc@lly=\dimen359
-\tc@urx=\dimen360
-\tc@ury=\dimen361
+\tc@llx=\dimen360
+\tc@lly=\dimen361
+\tc@urx=\dimen362
+\tc@ury=\dimen363
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen362
-\adjbox@Height=\dimen363
-\adjbox@Depth=\dimen364
-\adjbox@Totalheight=\dimen365
-\adjbox@pwidth=\dimen366
-\adjbox@pheight=\dimen367
-\adjbox@pdepth=\dimen368
-\adjbox@ptotalheight=\dimen369
+\adjbox@Width=\dimen364
+\adjbox@Height=\dimen365
+\adjbox@Depth=\dimen366
+\adjbox@Totalheight=\dimen367
+\adjbox@pwidth=\dimen368
+\adjbox@pheight=\dimen369
+\adjbox@pdepth=\dimen370
+\adjbox@ptotalheight=\dimen371
  (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count380
+\c@checkoddpage=\count382
 ) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box133
-\sift@deathcycles=\count381
-\@vwid@loff=\dimen370
-\@vwid@roff=\dimen371
+\@vwid@box=\box135
+\sift@deathcycles=\count383
+\@vwid@loff=\dimen372
+\@vwid@roff=\dimen373
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytrees.code.tex
 File: tikzlibrarytrees.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count382
+\FV@CodeLineNo=\count384
 \FV@InFile=\read4
-\FV@TabBox=\box134
-\c@FancyVerbLine=\count383
-\FV@StepNumber=\count384
+\FV@TabBox=\box136
+\c@FancyVerbLine=\count385
+\FV@StepNumber=\count386
 \FV@OutFile=\write8
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2020-02-14 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen372
-\l__xtemplate_tmp_int=\count385
+\l__xtemplate_tmp_dim=\dimen374
+\l__xtemplate_tmp_int=\count387
 \l__xtemplate_tmp_muskip=\muskip18
 \l__xtemplate_tmp_skip=\skip164
 )
 Package: xfrac 2020-02-14 L3 Experimental split-level fractions
-\l__xfrac_slash_box=\box135
-\l__xfrac_tmp_box=\box136
-\l__xfrac_denominator_bot_sep_dim=\dimen373
-\l__xfrac_numerator_bot_sep_dim=\dimen374
-\l__xfrac_numerator_top_sep_dim=\dimen375
-\l__xfrac_slash_left_sep_dim=\dimen376
-\l__xfrac_slash_right_sep_dim=\dimen377
+\l__xfrac_slash_box=\box137
+\l__xfrac_tmp_box=\box138
+\l__xfrac_denominator_bot_sep_dim=\dimen375
+\l__xfrac_numerator_bot_sep_dim=\dimen376
+\l__xfrac_numerator_top_sep_dim=\dimen377
+\l__xfrac_slash_left_sep_dim=\dimen378
+\l__xfrac_slash_right_sep_dim=\dimen379
 \l__xfrac_slash_left_muskip=\muskip19
 \l__xfrac_slash_right_muskip=\muskip20
 
@@ -1135,22 +1150,22 @@ LaTeX Warning: Label `fig:device' multiply defined.
 (/home/vitor/Documents/presentations/snappy-data-ppt/bu.aux))
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1188,25 +1203,25 @@ LaTeX Font Info:    ... okay on input line 122.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count386
-\scratchdimen=\dimen378
-\scratchbox=\box137
-\nofMPsegments=\count387
-\nofMParguments=\count388
-\everyMPshowfont=\toks65
-\MPscratchCnt=\count389
-\MPscratchDim=\dimen379
-\MPnumerator=\count390
-\makeMPintoPDFobject=\count391
-\everyMPtoPDFconversion=\toks66
+\scratchcounter=\count388
+\scratchdimen=\dimen380
+\scratchbox=\box139
+\nofMPsegments=\count389
+\nofMParguments=\count390
+\everyMPshowfont=\toks67
+\MPscratchCnt=\count391
+\MPscratchDim=\dimen381
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
+\everyMPtoPDFconversion=\toks68
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box138
-Package hyperref Info: Link coloring ON on input line 122.
+\AtBeginShipoutBox=\box140
+Package hyperref Info: Link coloring ON on input line 123.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1214,64 +1229,64 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count392
+\c@section@level=\count394
 )
-LaTeX Info: Redefining \ref on input line 122.
-LaTeX Info: Redefining \pageref on input line 122.
-LaTeX Info: Redefining \nameref on input line 122.
+LaTeX Info: Redefining \ref on input line 123.
+LaTeX Info: Redefining \pageref on input line 123.
+LaTeX Info: Redefining \nameref on input line 123.
  (/home/vitor/Documents/presentations/snappy-data-ppt/presentation.out) (/home/vitor/Documents/presentations/snappy-data-ppt/presentation.out)
 \@outlinefile=\write9
 \openout9 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 122.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 123.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 122.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 123.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 122.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 122.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 123.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 122.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 122.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 122.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 123.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 122.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 122.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 122.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 123.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 122.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 122.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 122.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 123.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 122.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 122.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 123.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 122.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 123.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 122.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 122.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 122.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 122.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 122.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 123.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 122.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 122.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 123.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 123.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 122.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 123.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 122.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 123.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 122.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 123.
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1284,23 +1299,29 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
+) (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-\c@lstlisting=\count393
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\c@lstlisting=\count395
  (/home/vitor/Documents/presentations/snappy-data-ppt/presentation.nav)
 <Template/logosenaicimatecnegativo.png, id=41, 632.1216pt x 138.7584pt>
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 122.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 123.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 
 
-Package media9 Warning: Media annotation on line 149 has zero width.
+Package media9 Warning: Media annotation on line 150 has zero width.
 (media9)                
 (media9)                Provide a poster text with non-zero width or
 (media9)                set a valid one using the `width' option.
 
 
-Package media9 Warning: Media annotation on line 149 has zero height.
+Package media9 Warning: Media annotation on line 150 has zero height.
 (media9)                
 (media9)                Provide a poster text with non-zero height or
 (media9)                set a valid height using one of `height' or
@@ -1310,32 +1331,32 @@ Package media9 Warning: Media annotation on line 149 has zero height.
 <Template/rosa-logo.png, id=56, 240.9pt x 197.538pt>
 File: Template/rosa-logo.png Graphic file (type png)
 <use Template/rosa-logo.png>
-Package pdftex.def Info: Template/rosa-logo.png  used on input line 149.
+Package pdftex.def Info: Template/rosa-logo.png  used on input line 150.
 (pdftex.def)             Requested size: 55.40582pt x 45.43277pt.
 <Template/logosenaicimatec2020.png, id=57, 2234.3475pt x 489.83pt>
 File: Template/logosenaicimatec2020.png Graphic file (type png)
 <use Template/logosenaicimatec2020.png>
-Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 149.
+Package pdftex.def Info: Template/logosenaicimatec2020.png  used on input line 150.
 (pdftex.def)             Requested size: 134.05507pt x 29.38852pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <32> not available
-(Font)              size <29.86> substituted on input line 149.
+(Font)              size <29.86> substituted on input line 150.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 149.
+(Font)              using `OT1/cmss/bx/n' instead on input line 150.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 149.
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 150.
 
-LaTeX Font Info:    Trying to load font information for OML+cmtt on input line 149.
-LaTeX Font Info:    No file OMLcmtt.fd. on input line 149.
+LaTeX Font Info:    Trying to load font information for OML+cmtt on input line 150.
+LaTeX Font Info:    No file OMLcmtt.fd. on input line 150.
 
 LaTeX Font Warning: Font shape `OML/cmtt/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 149.
+(Font)              for symbol `textless' on input line 150.
 
 [1
 
@@ -1729,37 +1750,58 @@ Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input li
 [25
 
  </home/vitor/Documents/presentations/snappy-data-ppt/source/pictures/concept-map.pdf>]
-File: source/pictures/concept-map.pdf Graphic file (type pdf)
-<use source/pictures/concept-map.pdf>
-Package pdftex.def Info: source/pictures/concept-map.pdf  used on input line 23.
-(pdftex.def)             Requested size: 220.34059pt x 165.73819pt.
+Overfull \hbox (14.95609pt too wide) in paragraph at lines 41--41
+ []  
+ []
 
-Overfull \vbox (0.763pt too high) detected at line 23
+<source/pictures/chart.pdf, id=410, 598.15468pt x 846.0408pt>
+File: source/pictures/chart.pdf Graphic file (type pdf)
+<use source/pictures/chart.pdf>
+Package pdftex.def Info: source/pictures/chart.pdf  used on input line 41.
+(pdftex.def)             Requested size: 168.26013pt x 237.98712pt.
+
+Overfull \vbox (11.18668pt too high) detected at line 41
  []
 
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 23.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 41.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
 [26
 
-]
+ </home/vitor/Documents/presentations/snappy-data-ppt/source/pictures/chart.pdf>]
+<modelo-artigo.pdf, id=432, 597.50829pt x 845.0471pt>
+File: modelo-artigo.pdf Graphic file (type pdf)
+<use modelo-artigo.pdf>
+Package pdftex.def Info: modelo-artigo.pdf  used on input line 52.
+(pdftex.def)             Requested size: 140.2184pt x 198.30241pt.
+
+Overfull \vbox (33.32722pt too high) detected at line 52
+ []
+
+File: Template/logosenaicimatecnegativo.png Graphic file (type png)
+<use Template/logosenaicimatecnegativo.png>
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 52.
+(pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
+[27
+
+ </home/vitor/Documents/presentations/snappy-data-ppt/modelo-artigo.pdf>]
 \openout5 = `bu.aux'.
 
  (/home/vitor/Documents/presentations/snappy-data-ppt/presentation.bbl)
 File: Template/logosenaicimatecnegativo.png Graphic file (type png)
 <use Template/logosenaicimatecnegativo.png>
-Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 51.
+Package pdftex.def Info: Template/logosenaicimatecnegativo.png  used on input line 80.
 (pdftex.def)             Requested size: 42.51686pt x 9.3333pt.
- [27
+ [28
 
 ])
-<Template/questionmark8.png, id=424, 513.92pt x 513.92pt>
+<Template/questionmark8.png, id=495, 513.92pt x 513.92pt>
 File: Template/questionmark8.png Graphic file (type png)
 <use Template/questionmark8.png>
-Package pdftex.def Info: Template/questionmark8.png  used on input line 181.
+Package pdftex.def Info: Template/questionmark8.png  used on input line 182.
 (pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
- [28
+ [29
 
  </home/vitor/Documents/presentations/snappy-data-ppt/Template/questionmark8.png>]
 \tf@nav=\write10
@@ -1778,11 +1820,11 @@ Package media9 Warning: Rerun to get internal references right!
 
 Package media9 Warning: There were multiply-defined labels!
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
 (/home/vitor/Documents/presentations/snappy-data-ppt/presentation.aux (/home/vitor/Documents/presentations/snappy-data-ppt/bu.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1798,18 +1840,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34466 strings out of 481239
- 719683 string characters out of 5920378
- 1141459 words of memory out of 5000000
- 48800 multiletter control sequences out of 15000+600000
+ 35141 strings out of 481239
+ 730863 string characters out of 5920378
+ 1154970 words of memory out of 5000000
+ 49452 multiletter control sequences out of 15000+600000
  549076 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,17n,88p,1039b,1140s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /home/vitor/Documents/presentations/snappy-data-ppt/presentation.pdf (28 pages, 19712121 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb>
+Output written on /home/vitor/Documents/presentations/snappy-data-ppt/presentation.pdf (29 pages, 20151742 bytes).
 PDF statistics:
- 490 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 64 named destinations out of 1000 (max. 500000)
- 649 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 569 PDF objects out of 1000 (max. 8388607)
+ 422 compressed objects within 5 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 659 words of extra memory for PDF output out of 10000 (max. 10000000)
 
